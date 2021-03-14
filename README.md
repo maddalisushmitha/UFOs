@@ -11,7 +11,8 @@ In order to get the infrmation about UFO Sightings do the following
 
 3.click enter then you get your output
 
-example if we take Date = 1/1/2010, City=benton, State=ar, Country=us, Shape=circle then click enter you get the follow 
+example if we take Date = 1/1/2010, City=benton, State=ar, Country=us, Shape=circle then click enter you get the follow
+
 ![OT]()
 
 
