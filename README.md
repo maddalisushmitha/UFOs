@@ -7,16 +7,13 @@ In order to get the infrmation about UFO Sightings do the following
 1. Below the Filter Search
 2. Enter the parameters like Date, City, State, Country and Shape as the dufault formate then you get the corresponding information on UFOs
 
-![FS]()
+![FS](https://github.com/maddalisushmitha/UFOs/blob/main/static/images/Filter_Search.png)
 
 3.click enter then you get your output
 
 example if we take Date = 1/1/2010, City=benton, State=ar, Country=us, Shape=circle then click enter you get the follow
 
-![OT]()
-
-
-
+![OT](https://github.com/maddalisushmitha/UFOs/blob/main/static/images/Outputimage.png)
 
 ## Summary:
 ### DrawBack
